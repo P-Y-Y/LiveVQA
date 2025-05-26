@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LIVEVQA
 
 ## NEWS
@@ -127,6 +126,3 @@ python construct_level2.py --input-file output.jsonl --output-file output_with_l
 ## Environmental Variables
 
 - `OPENAI_API_KEY`: Your OpenAI API key for GPT-4 interaction
-=======
-# LiveVQA
->>>>>>> 487ddc83117075722b1878ce762d1a119b7d3d1b
